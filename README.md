@@ -7,5 +7,7 @@ In this code, we will use the natality sample table to create a model that predi
 In this code, you use:
 
 BigQuery ML to create a linear regression model using the CREATE MODEL statement
+
 The ML.EVALUATE function to evaluate the ML model
+
 The ML.PREDICT function to make predictions using the ML model
